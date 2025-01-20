@@ -1,0 +1,502 @@
+[
+    {
+        "url": "https://en.wikipedia.org/wiki/Web_crawler",
+        "title": "Web crawler - Wikipedia",
+        "definition": "A Web crawler , sometimes called a spider or spiderbot and often shortened to crawler , is an Internet bot that systematically browses the World Wide Web and that is typically operated by search engines for the purpose of Web indexing ( web spidering )."
+    },
+    {
+        "url": "https://en.wikipedia.org/wiki/Python_(programming_language)",
+        "title": "Python (programming language) - Wikipedia",
+        "definition": "Python is a high-level , general-purpose programming language . Its design philosophy emphasizes code readability with the use of significant indentation ."
+    },
+    {
+        "url": "https://en.wikipedia.org/wiki/Artificial_intelligence",
+        "title": "Artificial intelligence - Wikipedia",
+        "definition": "Artificial intelligence ( AI ), in its broadest sense, is intelligence exhibited by machines , particularly computer systems . It is a field of research in computer science that develops and studies methods and software that enable machines to perceive their environment and use learning and intelligence to take actions that maximize their chances of achieving defined goals. Such machines may be called AIs."
+    },
+    {
+        "url": "https://en.wikipedia.org/wiki/Machine_learning",
+        "title": "Machine learning - Wikipedia",
+        "definition": "Machine learning ( ML ) is a field of study in artificial intelligence concerned with the development and study of statistical algorithms that can learn from data and generalize to unseen data, and thus perform tasks without explicit instructions . Advances in the field of deep learning have allowed neural networks to surpass many previous approaches in performance."
+    },
+    {
+        "url": "https://en.wikipedia.org/wiki/Data_science",
+        "title": "Data science - Wikipedia",
+        "definition": "Data science is an interdisciplinary academic field that uses statistics , scientific computing , scientific methods , processing, scientific visualization , algorithms and systems to extract or extrapolate knowledge and insights from potentially noisy, structured , or unstructured data ."
+    },
+    {
+        "url": "https://en.wikipedia.org/wiki/Big_data",
+        "title": "Big data - Wikipedia",
+        "definition": "Big data primarily refers to data sets that are too large or complex to be dealt with by traditional data-processing software . Data with many entries (rows) offer greater statistical power , while data with higher complexity (more attributes or columns) may lead to a higher false discovery rate ."
+    },
+    {
+        "url": "https://en.wikipedia.org/wiki/Neural_network",
+        "title": "Neural network - Wikipedia",
+        "definition": "A neural network is a group of interconnected units called neurons that send signals to one another. Neurons can be either biological cells or mathematical models . While individual neurons are simple, many of them together in a network can perform complex tasks. There are two main types of neural network."
+    },
+    {
+        "url": "https://en.wikipedia.org/wiki/Deep_learning",
+        "title": "Deep learning - Wikipedia",
+        "definition": "Deep learning is a subset of machine learning that focuses on utilizing neural networks to perform tasks such as classification , regression , and representation learning . The field takes inspiration from biological neuroscience and is centered around stacking artificial neurons into layers and \"training\" them to process data. The adjective \"deep\" refers to the use of multiple layers (ranging from three to several hundred or thousands) in the network. Methods used can be either supervised , semi-supervised or unsupervised ."
+    },
+    {
+        "url": "https://en.wikipedia.org/wiki/Internet_of_things",
+        "title": "Internet of things - Wikipedia",
+        "definition": "Internet of things ( IoT ) describes devices with sensors , processing ability, software and other technologies that connect and exchange data with other devices and systems over the Internet or other communication networks. The Internet of things encompasses electronics , communication , and computer science engineering. \"Internet of things\" has been considered a misnomer because devices do not need to be connected to the public internet ; they only need to be connected to a network and be individually addressable."
+    },
+    {
+        "url": "https://en.wikipedia.org/wiki/Natural_language_processing",
+        "title": "Natural language processing - Wikipedia",
+        "definition": "Natural language processing ( NLP ) is a subfield of computer science and especially artificial intelligence . It is primarily concerned with providing computers with the ability to process data encoded in natural language and is thus closely related to information retrieval , knowledge representation and computational linguistics , a subfield of linguistics . Typically data is collected in text corpora , using either rule-based, statistical or neural-based approaches in machine learning and deep learning ."
+    },
+    {
+        "url": "https://en.wikipedia.org/wiki/Computer_vision",
+        "title": "Computer vision - Wikipedia",
+        "definition": "Computer vision tasks include methods for acquiring , processing , analyzing , and understanding digital images , and extraction of high-dimensional data from the real world in order to produce numerical or symbolic information, e.g. in the form of decisions. \"Understanding\" in this context signifies the transformation of visual images (the input to the retina ) into descriptions of the world that make sense to thought processes and can elicit appropriate action. This image understanding can be seen as the disentangling of symbolic information from image data using models constructed with the aid of geometry, physics, statistics, and learning theory."
+    },
+    {
+        "url": "https://en.wikipedia.org/wiki/Robotics",
+        "title": "Robotics - Wikipedia",
+        "definition": "Robotics is the interdisciplinary study and practice of the design, construction, operation, and use of robots ."
+    },
+    {
+        "url": "https://en.wikipedia.org/wiki/Data_mining",
+        "title": "Data mining - Wikipedia",
+        "definition": "Data mining is the process of extracting and discovering patterns in large data sets involving methods at the intersection of machine learning , statistics , and database systems . Data mining is an interdisciplinary subfield of computer science and statistics with an overall goal of extracting information (with intelligent methods) from a data set and transforming the information into a comprehensible structure for further use. Data mining is the analysis step of the \" knowledge discovery in databases \" process, or KDD. Aside from the raw analysis step, it also involves database and data management aspects, data pre-processing , model and inference considerations, interestingness metrics, complexity considerations, post-processing of discovered structures, visualization , and online updating ."
+    },
+    {
+        "url": "https://en.wikipedia.org/wiki/Information_retrieval",
+        "title": "Information retrieval - Wikipedia",
+        "definition": "Information retrieval ( IR ) in computing and information science is the task of identifying and retrieving information system resources that are relevant to an information need .  The information need can be specified in the form of a search query. In the case of document retrieval, queries can be based on full-text or other content-based indexing. Information retrieval is the science of searching for information in a document, searching for documents themselves, and also searching for the metadata that describes data, and for databases of texts, images or sounds."
+    },
+    {
+        "url": "https://en.wikipedia.org/wiki/Cloud_computing",
+        "title": "Cloud computing - Wikipedia",
+        "definition": "Cloud computing is \"a paradigm for enabling network access to a scalable and elastic pool of shareable physical or virtual resources with self-service provisioning and administration on-demand,\" according to ISO ."
+    },
+    {
+        "url": "https://en.wikipedia.org/wiki/Supervised_learning",
+        "title": "Supervised learning - Wikipedia",
+        "definition": "In machine learning , supervised learning ( SL ) is a paradigm where a model is trained using input objects (e.g. a vector of predictor variables) and desired output values (also known as a supervisory signal ), which are often human-made labels. The training process builds a function that maps new data to expected output values. An optimal scenario will allow for the algorithm to accurately determine output values for unseen instances. This requires the learning algorithm to generalize from the training data to unseen situations in a \"reasonable\" way (see inductive bias ). This statistical quality of an algorithm is measured via a generalization error ."
+    },
+    {
+        "url": "https://en.wikipedia.org/wiki/Unsupervised_learning",
+        "title": "Unsupervised learning - Wikipedia",
+        "definition": "Unsupervised learning is a framework in machine learning where, in contrast to supervised learning , algorithms learn patterns exclusively from unlabeled data. Other frameworks in the spectrum of supervisions include weak- or semi-supervision , where a small portion of the data is tagged, and self-supervision . Some researchers consider self-supervised learning a form of unsupervised learning."
+    },
+    {
+        "url": "https://en.wikipedia.org/wiki/Reinforcement_learning",
+        "title": "Reinforcement learning - Wikipedia",
+        "definition": "Reinforcement learning ( RL ) is an interdisciplinary area of machine learning and optimal control concerned with how an intelligent agent should take actions in a dynamic environment in order to maximize a reward signal. Reinforcement learning is one of the three basic machine learning paradigms , alongside supervised learning and unsupervised learning ."
+    },
+    {
+        "url": "https://en.wikipedia.org/wiki/Support-vector_machine",
+        "title": "Support vector machine - Wikipedia",
+        "definition": "In machine learning , support vector machines ( SVMs , also support vector networks ) are supervised max-margin models with associated learning algorithms that analyze data for classification and regression analysis . Developed at AT&T Bell Laboratories , SVMs are one of the most studied models, being based on statistical learning frameworks of VC theory proposed by Vapnik (1982, 1995) and Chervonenkis (1974)."
+    },
+    {
+        "url": "https://en.wikipedia.org/wiki/Decision_tree",
+        "title": "Decision tree - Wikipedia",
+        "definition": "A decision tree is a decision support recursive partitioning structure that uses a tree-like model of decisions and their possible consequences, including chance event outcomes, resource costs, and utility . It is one way to display an algorithm that only contains conditional control statements."
+    },
+    {
+        "url": "https://en.wikipedia.org/wiki/Random_forest",
+        "title": "Random forest - Wikipedia",
+        "definition": "Random forests or random decision forests is an ensemble learning method for classification , regression and other tasks that works by creating a multitude of decision trees during training. For classification tasks, the output of the random forest is the class selected by most trees. For regression tasks, the output is the average of the predictions of the trees. Random forests correct for decision trees' habit of overfitting to their training set ."
+    },
+    {
+        "url": "https://en.wikipedia.org/wiki/Gradient_boosting",
+        "title": "Gradient boosting - Wikipedia",
+        "definition": "Gradient boosting is a machine learning technique based on boosting in a functional space, where the target is pseudo-residuals instead of residuals as in traditional boosting. It gives a prediction model in the form of an ensemble of weak prediction models, i.e., models that make very few assumptions about the data, which are typically simple decision trees . When a decision tree is the weak learner, the resulting algorithm is called gradient-boosted trees; it usually outperforms random forest . As with other boosting methods, a gradient-boosted trees model is built in stages, but it generalizes the other methods by allowing optimization of an arbitrary differentiable loss function ."
+    },
+    {
+        "url": "https://en.wikipedia.org/wiki/Computer_cluster",
+        "title": "Computer cluster - Wikipedia",
+        "definition": "A computer cluster is a set of computers that work together so that they can be viewed as a single system. Unlike grid computers , computer clusters have each node set to perform the same task, controlled and scheduled by software. The newest manifestation of cluster computing is cloud computing ."
+    },
+    {
+        "url": "https://en.wikipedia.org/wiki/Parallel_computing",
+        "title": "Parallel computing - Wikipedia",
+        "definition": "Parallel computing is a type of computation in which many calculations or processes are carried out simultaneously. Large problems can often be divided into smaller ones, which can then be solved at the same time. There are several different forms of parallel computing: bit-level , instruction-level , data , and task parallelism . Parallelism has long been employed in high-performance computing , but has gained broader interest due to the physical constraints preventing frequency scaling . As power consumption (and consequently heat generation) by computers has become a concern in recent years, parallel computing has become the dominant paradigm in computer architecture , mainly in the form of multi-core processors ."
+    },
+    {
+        "url": "https://en.wikipedia.org/wiki/Distributed_computing",
+        "title": "Distributed computing - Wikipedia",
+        "definition": "Distributed computing is a field of computer science that studies distributed systems , defined as computer systems whose inter-communicating components are located on different networked computers ."
+    },
+    {
+        "url": "https://en.wikipedia.org/wiki/Concurrent_computing",
+        "title": "Concurrent computing - Wikipedia",
+        "definition": "Concurrent computing is a form of computing in which several computations are executed concurrently —during overlapping time periods—instead of sequentially— with one completing before the next starts."
+    },
+    {
+        "url": "https://en.wikipedia.org/wiki/High-performance_computing",
+        "title": "High-performance computing - Wikipedia",
+        "definition": "High-performance computing ( HPC ) is the use of supercomputers and computer clusters to solve advanced computation problems."
+    },
+    {
+        "url": "https://en.wikipedia.org/wiki/Bayesian_network",
+        "title": "Bayesian network - Wikipedia",
+        "definition": "A Bayesian network (also known as a Bayes network , Bayes net , belief network , or decision network ) is a probabilistic graphical model that represents a set of variables and their conditional dependencies via a directed acyclic graph (DAG). While it is one of several forms of causal notation , causal networks are special cases of Bayesian networks. Bayesian networks are ideal for taking an event that occurred and predicting the likelihood that any one of several possible known causes was the contributing factor.  For example, a Bayesian network could represent the probabilistic relationships between diseases and symptoms. Given symptoms, the network can be used to compute the probabilities of the presence of various diseases."
+    },
+    {
+        "url": "https://en.wikipedia.org/wiki/Genetic_algorithm",
+        "title": "Genetic algorithm - Wikipedia",
+        "definition": "In computer science and operations research , a genetic algorithm (GA) is a metaheuristic inspired by the process of natural selection that belongs to the larger class of evolutionary algorithms (EA). Genetic algorithms are commonly used to generate high-quality solutions to optimization and search problems via biologically inspired operators such as selection , crossover , and mutation . Some examples of GA applications include optimizing decision trees for better performance, solving sudoku puzzles , hyperparameter optimization , and causal inference ."
+    },
+    {
+        "url": "https://en.wikipedia.org/wiki/Speech_recognition",
+        "title": "Speech recognition - Wikipedia",
+        "definition": "Speech recognition is an interdisciplinary subfield of computer science and computational linguistics that develops methodologies and technologies that enable the recognition and translation of spoken language into text by computers. It is also known as automatic speech recognition ( ASR ), computer speech recognition or speech-to-text ( STT ). It incorporates knowledge and research in the computer science , linguistics and computer engineering fields. The reverse process is speech synthesis ."
+    },
+    {
+        "url": "https://en.wikipedia.org/wiki/Automatic_summarization",
+        "title": "Automatic summarization - Wikipedia",
+        "definition": "Automatic summarization is the process of shortening a set of data computationally, to create a subset (a summary ) that represents the most important or relevant information within the original content. Artificial intelligence algorithms are commonly developed and employed to achieve this, specialized for different types of data."
+    },
+    {
+        "url": "https://en.wikipedia.org/wiki/Information_extraction",
+        "title": "Information extraction - Wikipedia",
+        "definition": "Information extraction ( IE ) is the task of automatically extracting structured information from unstructured and/or semi-structured machine-readable documents and other electronically represented sources. Typically, this involves processing human language texts by means of natural language processing (NLP). Recent activities in multimedia document processing like automatic annotation and content extraction out of images/audio/video/documents could be seen as information extraction."
+    },
+    {
+        "url": "https://en.wikipedia.org/wiki/Recommender_system",
+        "title": "Recommender system - Wikipedia",
+        "definition": "A recommender system (RecSys) , or a recommendation system (sometimes replacing system with terms such as platform , engine , or algorithm ), is a subclass of information filtering system that provides suggestions for items that are most pertinent to a particular user. Recommender systems are particularly useful when an individual needs to choose an item from a potentially overwhelming number of items that a service may offer."
+    },
+    {
+        "url": "https://en.wikipedia.org/wiki/Dimensionality_reduction",
+        "title": "Dimensionality reduction - Wikipedia",
+        "definition": "Dimensionality reduction , or dimension reduction , is the transformation of data from a high-dimensional space into a low-dimensional space so that the low-dimensional representation retains some meaningful properties of the original data, ideally close to its intrinsic dimension . Working in high-dimensional spaces can be undesirable for many reasons; raw data are often sparse as a consequence of the curse of dimensionality , and analyzing the data is usually computationally intractable . Dimensionality reduction is common in fields that deal with large numbers of observations and/or large numbers of variables, such as signal processing , speech recognition , neuroinformatics , and bioinformatics ."
+    },
+    {
+        "url": "https://en.wikipedia.org/wiki/Principal_component_analysis",
+        "title": "Principal component analysis - Wikipedia",
+        "definition": "Principal component analysis ( PCA ) is a linear dimensionality reduction technique with applications in exploratory data analysis , visualization and data preprocessing ."
+    },
+    {
+        "url": "https://en.wikipedia.org/wiki/Clustering",
+        "title": "Clustering - Wikipedia",
+        "definition": "Clustering can refer to the following:"
+    },
+    {
+        "url": "https://en.wikipedia.org/wiki/K-means_clustering",
+        "title": "k-means clustering - Wikipedia",
+        "definition": "k -means clustering is a method of vector quantization , originally from signal processing , that aims to partition n observations into k clusters in which each observation belongs to the cluster with the nearest mean (cluster centers or cluster centroid ), serving as a prototype of the cluster. This results in a partitioning of the data space into Voronoi cells . k -means clustering minimizes within-cluster variances ( squared Euclidean distances ), but not regular Euclidean distances, which would be the more difficult Weber problem : the mean optimizes squared errors, whereas only the geometric median minimizes Euclidean distances. For instance, better Euclidean solutions can be found using k -medians and k -medoids ."
+    },
+    {
+        "url": "https://en.wikipedia.org/wiki/DBSCAN",
+        "title": "DBSCAN - Wikipedia",
+        "definition": "Density-based spatial clustering of applications with noise ( DBSCAN ) is a data clustering algorithm proposed by Martin Ester , Hans-Peter Kriegel , Jörg Sander , and Xiaowei Xu in 1996. It is a density-based clustering non-parametric algorithm: given a set of points in some space, it groups together points that are closely packed (points with many nearby neighbors ), and marks as outliers points that lie alone in low-density regions (those whose nearest neighbors are too far away).\nDBSCAN is one of the most commonly used and cited clustering algorithms."
+    },
+    {
+        "url": "https://en.wikipedia.org/wiki/Hierarchical_clustering",
+        "title": "Hierarchical clustering - Wikipedia",
+        "definition": "In data mining and statistics , hierarchical clustering (also called hierarchical cluster analysis or HCA ) is a method of cluster analysis that seeks to build a hierarchy of clusters. Strategies for hierarchical clustering generally fall into two categories:"
+    },
+    {
+        "url": "https://en.wikipedia.org/wiki/Association_rule_learning",
+        "title": "Association rule learning - Wikipedia",
+        "definition": "Association rule learning is a rule-based machine learning method for discovering interesting relations between variables in large databases. It is intended to identify strong rules discovered in databases using some measures of interestingness. In any given transaction with a variety of items, association rules are meant to discover the rules that determine how or why certain items are connected."
+    },
+    {
+        "url": "https://en.wikipedia.org/wiki/Knowledge_discovery_in_databases",
+        "title": "Data mining - Wikipedia",
+        "definition": "Data mining is the process of extracting and discovering patterns in large data sets involving methods at the intersection of machine learning , statistics , and database systems . Data mining is an interdisciplinary subfield of computer science and statistics with an overall goal of extracting information (with intelligent methods) from a data set and transforming the information into a comprehensible structure for further use. Data mining is the analysis step of the \" knowledge discovery in databases \" process, or KDD. Aside from the raw analysis step, it also involves database and data management aspects, data pre-processing , model and inference considerations, interestingness metrics, complexity considerations, post-processing of discovered structures, visualization , and online updating ."
+    },
+    {
+        "url": "https://en.wikipedia.org/wiki/Data_warehouse",
+        "title": "Data warehouse - Wikipedia",
+        "definition": "In computing , a data warehouse ( DW or DWH ), also known as an enterprise data warehouse ( EDW ), is a system used for reporting and data analysis and is a core component of business intelligence . Data warehouses are central repositories of data integrated from disparate sources. They store current and historical data organized so as to make it easy to create reports, query and get insights from the data. Unlike databases , they are intended to be used by analysts and managers to help make organizational decisions."
+    },
+    {
+        "url": "https://en.wikipedia.org/wiki/ETL_(Extract,_transform,_load)",
+        "title": "Error",
+        "definition": "Could not fetch page"
+    },
+    {
+        "url": "https://en.wikipedia.org/wiki/Data_visualization",
+        "title": "Data and information visualization - Wikipedia",
+        "definition": "Data and information visualization ( data viz/vis or info viz/vis ) is the practice of designing and creating easy-to-communicate and easy-to-understand graphic or visual representations of a large amount of complex quantitative and qualitative data and information with the help of static, dynamic or interactive visual items. Typically based on data and information collected from a certain domain of expertise , these visualizations are intended for a broader audience to help them visually explore and discover, quickly understand, interpret and gain important insights into otherwise difficult-to-identify structures, relationships, correlations, local and global patterns, trends, variations, constancy, clusters, outliers and unusual groupings within data ( exploratory visualization ). When intended for the general public ( mass communication ) to convey a concise version of known, specific information in a clear and engaging manner ( presentational or explanatory visualization ), it is typically called information graphics ."
+    },
+    {
+        "url": "https://en.wikipedia.org/wiki/Matplotlib",
+        "title": "Matplotlib - Wikipedia",
+        "definition": "M atplotlib (portmanteau of MATLAB , plot, and library ) is a plotting library for the Python programming language and its numerical mathematics extension NumPy . It provides an object-oriented API for embedding plots into applications using general-purpose GUI toolkits like Tkinter , wxPython , Qt , or GTK . There is also a procedural \"pylab\" interface based on a state machine (like OpenGL ), designed to closely resemble that of MATLAB , though its use is discouraged. SciPy makes use of Matplotlib."
+    },
+    {
+        "url": "https://en.wikipedia.org/wiki/TensorFlow",
+        "title": "TensorFlow - Wikipedia",
+        "definition": "TensorFlow is a software library for machine learning and artificial intelligence . It can be used across a range of tasks, but is used mainly for training and inference of neural networks . It is one of the most popular deep learning frameworks, alongside others such as PyTorch and PaddlePaddle. It is free and open-source software released under the Apache License 2.0 ."
+    },
+    {
+        "url": "https://en.wikipedia.org/wiki/PyTorch",
+        "title": "PyTorch - Wikipedia",
+        "definition": "PyTorch is a machine learning library based on the Torch library, used for applications such as computer vision and natural language processing , originally developed by Meta AI and now part of the Linux Foundation umbrella. It is one of the most popular deep learning frameworks, alongside others such as TensorFlow and PaddlePaddle, offering free and open-source software released under the modified BSD license . Although the Python interface is more polished and the primary focus of development, PyTorch also has a C++ interface."
+    },
+    {
+        "url": "https://en.wikipedia.org/wiki/Keras",
+        "title": "Keras - Wikipedia",
+        "definition": "Keras is an open-source library that provides a Python interface for artificial neural networks . Keras was first independent software, then integrated into the TensorFlow library , and later supporting more. \"Keras 3 is a full rewrite of Keras [and can be used] as a low-level cross-framework language to develop custom components such as layers, models, or metrics that can be used in native workflows in JAX, TensorFlow, or PyTorch — with one codebase.\" Keras 3 will be the default Keras version for TensorFlow 2.16 onwards, but Keras 2 can still be used."
+    },
+    {
+        "url": "https://en.wikipedia.org/wiki/Scikit-learn",
+        "title": "scikit-learn - Wikipedia",
+        "definition": "scikit-learn (formerly scikits.learn and also known as sklearn ) is a free and open-source machine learning library for the Python programming language . It features various classification , regression and clustering algorithms including support-vector machines , random forests , gradient boosting , k -means and DBSCAN , and is designed to interoperate with the Python numerical and scientific libraries NumPy and SciPy . Scikit-learn is a NumFOCUS fiscally sponsored project."
+    },
+    {
+        "url": "https://en.wikipedia.org/wiki/Apache_Spark",
+        "title": "Apache Spark - Wikipedia",
+        "definition": "Apache Spark is an open-source unified analytics engine for large-scale data processing. Spark provides an interface for programming clusters with implicit data parallelism and fault tolerance . Originally developed at the University of California, Berkeley 's AMPLab , the Spark codebase was later donated to the Apache Software Foundation , which has maintained it since."
+    },
+    {
+        "url": "https://en.wikipedia.org/wiki/Apache_Hadoop",
+        "title": "Apache Hadoop - Wikipedia",
+        "definition": "Apache Hadoop ( / h ə ˈ d uː p / ) is a collection of open-source software utilities for reliable, scalable, distributed computing . It provides a software framework for distributed storage and processing of big data using the MapReduce programming model . Hadoop was originally designed for computer clusters built from commodity hardware , which is still the common use. It has since also found use on clusters of higher-end hardware. All the modules in Hadoop are designed with a fundamental assumption that hardware failures are common occurrences and should be automatically handled by the framework."
+    },
+    {
+        "url": "https://en.wikipedia.org/wiki/MongoDB",
+        "title": "MongoDB - Wikipedia",
+        "definition": "MongoDB is a source-available , cross-platform , document-oriented database program. Classified as a NoSQL database product, MongoDB utilizes JSON -like documents with optional schemas . Released in February 2009 by 10gen (now MongoDB Inc. ), it supports features like sharding , replication , and ACID transactions (from version 4.0). MongoDB Atlas, its managed cloud service, operates on AWS , Google Cloud Platform , and Microsoft Azure . Current versions are licensed under the Server Side Public License (SSPL). MongoDB is a member of the MACH Alliance ."
+    },
+    {
+        "url": "https://en.wikipedia.org/wiki/PostgreSQL",
+        "title": "PostgreSQL - Wikipedia",
+        "definition": "PostgreSQL ( / ˌ p oʊ s t ɡ r ɛ s k j u ˈ ɛ l / POHST -gres-kew- EL ) also known as Postgres , is a free and open-source relational database management system (RDBMS) emphasizing extensibility and SQL compliance. PostgreSQL features transactions with atomicity , consistency , isolation , durability ( ACID ) properties, automatically updatable views , materialized views , triggers , foreign keys , and stored procedures . It is supported on all major operating systems , including Windows , Linux , macOS , FreeBSD , and OpenBSD , and handles a range of workloads from single machines to data warehouses , data lakes , or web services with many concurrent users ."
+    },
+    {
+        "url": "https://en.wikipedia.org/wiki/Relational_database",
+        "title": "Relational database - Wikipedia",
+        "definition": "A relational database ( RDB ) is a database based on the relational model of data, as proposed by E. F. Codd in 1970."
+    },
+    {
+        "url": "https://en.wikipedia.org/wiki/NoSQL",
+        "title": "NoSQL - Wikipedia",
+        "definition": "NoSQL (originally referring to \"non- SQL \" or \"non-relational\") is an approach to database design that focuses on providing a mechanism for storage and retrieval of data that is modeled in means other than the tabular relations used in relational databases . Instead of the typical tabular structure of a relational database, NoSQL databases house data within one data structure. Since this non-relational database design does not require a schema , it offers rapid scalability to manage large and typically unstructured data sets. NoSQL systems are also sometimes called \"Not only SQL\" to emphasize that they may support SQL -like query languages or sit alongside SQL databases in polyglot-persistent architectures."
+    },
+    {
+        "url": "https://en.wikipedia.org/wiki/Database_index",
+        "title": "Database index - Wikipedia",
+        "definition": "A database index is a data structure that improves the speed of data retrieval operations on a database table at the cost of additional writes and storage space to maintain the index data structure.  Indexes are used to quickly locate data without having to search every row in a database table every time said table is accessed.  Indexes can be created using one or more columns of a database table , providing the basis for both rapid random lookups and efficient access of ordered records."
+    },
+    {
+        "url": "https://en.wikipedia.org/wiki/SQL",
+        "title": "SQL - Wikipedia",
+        "definition": "Structured Query Language ( SQL ) ( pronounced / ˌ ɛ s ˌ k j u ˈ ɛ l / S-Q-L ; or alternatively as / ˈ s iː k w ə l / \"sequel\") is a domain-specific language used to manage data, especially in a relational database management system (RDBMS). It is particularly useful in handling structured data , i.e., data incorporating relations among entities and variables."
+    },
+    {
+        "url": "https://en.wikipedia.org/wiki/Machine_reading_comprehension",
+        "title": "Natural language understanding - Wikipedia",
+        "definition": "Natural language understanding ( NLU ) or natural language interpretation ( NLI ) is a subset of natural language processing in artificial intelligence that deals with machine reading comprehension . NLU has been considered an AI-hard problem."
+    },
+    {
+        "url": "https://en.wikipedia.org/wiki/Text_mining",
+        "title": "Text mining - Wikipedia",
+        "definition": "Text mining , text data mining ( TDM ) or text analytics is the process of deriving high-quality information from text . It involves \"the discovery by computer of new, previously unknown information, by automatically extracting information from different written resources.\" Written resources may include websites , books , emails , reviews , and articles. High-quality information is typically obtained by devising patterns and trends by means such as statistical pattern learning . According to Hotho et al. (2005), there are three perspectives of text mining: information extraction , data mining , and knowledge discovery in databases (KDD). Text mining usually involves the process of structuring the input text (usually parsing , along with the addition of some derived linguistic features and the removal of others, and subsequent insertion into a database ), deriving patterns within the structured data , and finally evaluation and interpretation of the output. 'High quality' in text mining usually refers to some combination of relevance , novelty , and interest. Typical text mining tasks include text categorization , text clustering , concept/entity extraction, production of granular taxonomies, sentiment analysis , document summarization , and entity relation modeling ( i.e. , learning relations between named entities )."
+    },
+    {
+        "url": "https://en.wikipedia.org/wiki/Question_answering",
+        "title": "Question answering - Wikipedia",
+        "definition": "Question answering ( QA ) is a computer science discipline within the fields of information retrieval and natural language processing (NLP) that is concerned with building systems that automatically answer questions that are posed by humans in a natural language ."
+    },
+    {
+        "url": "https://en.wikipedia.org/wiki/Chatbot",
+        "title": "Chatbot - Wikipedia",
+        "definition": "A chatbot (originally chatterbot ) is a software application or web interface designed to have textual or spoken conversations. Modern chatbots are typically online and use generative artificial intelligence systems that are capable of maintaining a conversation with a user in natural language and simulating the way a human would behave as a conversational partner. Such chatbots often use deep learning and natural language processing , but simpler chatbots have existed for decades."
+    },
+    {
+        "url": "https://en.wikipedia.org/wiki/GPT-3",
+        "title": "GPT-3 - Wikipedia",
+        "definition": "Generative Pre-trained Transformer 3 ( GPT-3 ) is a large language model released by OpenAI in 2020."
+    },
+    {
+        "url": "https://en.wikipedia.org/wiki/BERT_(language_model)",
+        "title": "BERT (language model) - Wikipedia",
+        "definition": "Bidirectional encoder representations from transformers ( BERT ) is a language model introduced in October 2018 by researchers at Google . It learns to represent text as a sequence of vectors using self-supervised learning . It uses the encoder-only transformer architecture. It is notable for its dramatic improvement over previous state-of-the-art models, and as an early example of a large language model . As of 2020 , BERT is a ubiquitous baseline in natural language processing (NLP) experiments."
+    },
+    {
+        "url": "https://en.wikipedia.org/wiki/Word_embedding",
+        "title": "Word embedding - Wikipedia",
+        "definition": "In natural language processing , a word embedding is a representation of a word. The embedding is used in text analysis . Typically, the representation is a real-valued vector that encodes the meaning of the word in such a way that the words that are closer in the vector space are expected to be similar in meaning. Word embeddings can be obtained using language modeling and feature learning techniques, where words or phrases from the vocabulary are mapped to vectors of real numbers ."
+    },
+    {
+        "url": "https://en.wikipedia.org/wiki/Vector_space_model",
+        "title": "Vector space model - Wikipedia",
+        "definition": "Vector space model or term vector model is an algebraic model for representing text documents (or more generally, items) as vectors such that the distance between vectors represents the relevance between the documents. It is used in information filtering , information retrieval , indexing and relevancy rankings.  Its first use was in the SMART Information Retrieval System ."
+    },
+    {
+        "url": "https://en.wikipedia.org/wiki/Boolean_retrieval",
+        "title": "Error",
+        "definition": "Could not fetch page"
+    },
+    {
+        "url": "https://en.wikipedia.org/wiki/Okapi_BM25",
+        "title": "Okapi BM25 - Wikipedia",
+        "definition": "In information retrieval , Okapi BM25 ( BM is an abbreviation of best matching ) is a ranking function used by search engines to estimate the relevance of documents to a given search query. It is based on the probabilistic retrieval framework developed in the 1970s and 1980s by Stephen E. Robertson , Karen Spärck Jones , and others."
+    },
+    {
+        "url": "https://en.wikipedia.org/wiki/Lucene",
+        "title": "Apache Lucene - Wikipedia",
+        "definition": "Apache Lucene is a free and open-source search engine software library , originally written in Java by Doug Cutting . It is supported by the Apache Software Foundation and is released under the Apache Software License .  Lucene is widely used as a standard foundation for production search applications."
+    },
+    {
+        "url": "https://en.wikipedia.org/wiki/ElasticSearch",
+        "title": "Elasticsearch - Wikipedia",
+        "definition": "Elasticsearch is a search engine based on Apache Lucene . It provides a distributed, multitenant -capable full-text search engine with an HTTP web interface and schema-free JSON documents. Official clients are available in Java , .NET ( C# ), PHP , Python , Ruby and many other languages. According to the DB-Engines ranking , Elasticsearch is the most popular enterprise search engine."
+    },
+    {
+        "url": "https://en.wikipedia.org/wiki/Apache_Solr",
+        "title": "Apache Solr - Wikipedia",
+        "definition": "Solr (pronounced \"solar\") is an open-source enterprise-search platform, written in Java . Its major features include full-text search , hit highlighting, faceted search , real-time indexing, dynamic clustering, database integration, NoSQL features and rich document (e.g., Word, PDF) handling. Providing distributed search and index replication, Solr is designed for scalability and fault tolerance . Solr is widely used for enterprise search and analytics use cases and has an active development community and regular releases."
+    },
+    {
+        "url": "https://en.wikipedia.org/wiki/Inverse_document_frequency",
+        "title": "tf–idf - Wikipedia",
+        "definition": "In information retrieval , tf–idf (also TF*IDF , TFIDF , TF–IDF , or Tf–idf ), short for term frequency–inverse document frequency ,  is a measure of importance of a word to a document in a collection or corpus , adjusted for the fact that some words appear more frequently in general. Like the bag-of-words model, it models a document as a multiset of words, without word order . It is a refinement over the simple bag-of-words model , by allowing the weight of words to depend on the rest of the corpus."
+    },
+    {
+        "url": "https://en.wikipedia.org/wiki/Tf–idf",
+        "title": "tf–idf - Wikipedia",
+        "definition": "In information retrieval , tf–idf (also TF*IDF , TFIDF , TF–IDF , or Tf–idf ), short for term frequency–inverse document frequency ,  is a measure of importance of a word to a document in a collection or corpus , adjusted for the fact that some words appear more frequently in general. Like the bag-of-words model, it models a document as a multiset of words, without word order . It is a refinement over the simple bag-of-words model , by allowing the weight of words to depend on the rest of the corpus."
+    },
+    {
+        "url": "https://en.wikipedia.org/wiki/Information_retrieval#Evaluation",
+        "title": "Information retrieval - Wikipedia",
+        "definition": "Information retrieval ( IR ) in computing and information science is the task of identifying and retrieving information system resources that are relevant to an information need .  The information need can be specified in the form of a search query. In the case of document retrieval, queries can be based on full-text or other content-based indexing. Information retrieval is the science of searching for information in a document, searching for documents themselves, and also searching for the metadata that describes data, and for databases of texts, images or sounds."
+    },
+    {
+        "url": "https://en.wikipedia.org/wiki/Precision_and_recall",
+        "title": "Precision and recall - Wikipedia",
+        "definition": "In pattern recognition, information retrieval , object detection and classification (machine learning) , precision and recall are performance metrics that apply to data retrieved from a collection , corpus or sample space ."
+    },
+    {
+        "url": "https://en.wikipedia.org/wiki/F1_score",
+        "title": "F-score - Wikipedia",
+        "definition": "In statistical analysis of binary classification and information retrieval systems, the F-score or F-measure is a measure of predictive performance. It is calculated from the precision and recall of the test, where the precision is the number of true positive results divided by the number of all samples predicted to be positive, including those not identified correctly, and the recall is the number of true positive results divided by the number of all samples that should have been identified as positive. Precision is also known as positive predictive value , and recall is also known as sensitivity in diagnostic binary classification."
+    },
+    {
+        "url": "https://en.wikipedia.org/wiki/Mean_average_precision",
+        "title": "Evaluation measures (information retrieval) - Wikipedia",
+        "definition": "Evaluation measures for an information retrieval (IR) system assess how well an index, search engine, or database returns results from a collection of resources that satisfy a user's query. They are therefore fundamental to the success of information systems and digital platforms."
+    },
+    {
+        "url": "https://en.wikipedia.org/wiki/Text_classification",
+        "title": "Document classification - Wikipedia",
+        "definition": "Document classification or document categorization is a problem in library science , information science and computer science . The task is to assign a document to one or more classes or categories . This may be done \"manually\" (or \"intellectually\") or algorithmically . The intellectual classification of documents has mostly been the province of library science, while the algorithmic classification of documents is mainly in information science and computer science. The problems are overlapping, however, and there is therefore interdisciplinary research on document classification."
+    },
+    {
+        "url": "https://en.wikipedia.org/wiki/Document_classification",
+        "title": "Document classification - Wikipedia",
+        "definition": "Document classification or document categorization is a problem in library science , information science and computer science . The task is to assign a document to one or more classes or categories . This may be done \"manually\" (or \"intellectually\") or algorithmically . The intellectual classification of documents has mostly been the province of library science, while the algorithmic classification of documents is mainly in information science and computer science. The problems are overlapping, however, and there is therefore interdisciplinary research on document classification."
+    },
+    {
+        "url": "https://en.wikipedia.org/wiki/Topic_modeling",
+        "title": "Topic model - Wikipedia",
+        "definition": "In statistics and natural language processing , a topic model is a type of statistical model for discovering the abstract \"topics\" that occur in a collection of documents. Topic modeling is a frequently used text-mining tool for discovery of hidden semantic structures in a text body. Intuitively, given that a document is about a particular topic, one would expect particular words to appear in the document more or less frequently: \"dog\" and \"bone\" will appear more often in documents about dogs, \"cat\" and \"meow\" will appear in documents about cats, and \"the\" and \"is\" will appear approximately equally in both. A document typically concerns multiple topics in different proportions; thus, in a document that is 10% about cats and 90% about dogs, there would probably be about 9 times more dog words than cat words. The \"topics\" produced by topic modeling techniques are clusters of similar words. A topic model captures this intuition in a mathematical framework, which allows examining a set of documents and discovering, based on the statistics of the words in each, what the topics might be and what each document's balance of topics is."
+    },
+    {
+        "url": "https://en.wikipedia.org/wiki/Latent_Dirichlet_allocation",
+        "title": "Latent Dirichlet allocation - Wikipedia",
+        "definition": "In natural language processing , latent Dirichlet allocation ( LDA ) is a Bayesian network (and, therefore, a generative statistical model ) for modeling automatically extracted topics in textual corpora. The LDA is an example of a Bayesian topic model . In this, observations (e.g., words) are collected into documents, and each word's presence is attributable to one of the document's topics. Each document will contain a small number of topics."
+    },
+    {
+        "url": "https://en.wikipedia.org/wiki/Word2vec",
+        "title": "Word2vec - Wikipedia",
+        "definition": "Word2vec is a technique in natural language processing (NLP) for obtaining vector representations of words. These vectors capture information about the meaning of the word based on the surrounding words. The word2vec algorithm estimates these representations by modeling text in a large corpus . Once trained, such a model can detect synonymous words or suggest additional words for a partial sentence. Word2vec was developed by Tomáš Mikolov and colleagues at Google and published in 2013."
+    },
+    {
+        "url": "https://en.wikipedia.org/wiki/Convolutional_neural_network",
+        "title": "Convolutional neural network - Wikipedia",
+        "definition": "A convolutional neural network ( CNN ) is a regularized type of feed-forward neural network that learns features by itself via filter (or kernel) optimization. This type of deep learning network has been applied to process and make predictions from many different types of data including text, images and audio. Convolution-based networks are the de-facto standard in deep learning -based approaches to computer vision and image processing, and have only recently been replaced -- in some cases -- by newer deep learning architectures such as the transformer . Vanishing gradients and exploding gradients, seen during backpropagation in earlier neural networks, are prevented by using regularized weights over fewer connections. For example, for each neuron in the fully-connected layer, 10,000 weights would be required for processing an image sized 100 × 100 pixels. However, applying cascaded convolution (or cross-correlation) kernels, only 25 neurons are required to process 5x5-sized tiles. Higher-layer features are extracted from wider context windows, compared to lower-layer features."
+    },
+    {
+        "url": "https://en.wikipedia.org/wiki/Recurrent_neural_network",
+        "title": "Recurrent neural network - Wikipedia",
+        "definition": "Recurrent neural networks ( RNNs ) are a class of artificial neural network commonly used for sequential data processing. Unlike feedforward neural networks , which process data in a single pass, RNNs process data across multiple time steps, making them well-adapted for modelling and processing text, speech, and time series ."
+    },
+    {
+        "url": "https://en.wikipedia.org/wiki/Transformer_(machine_learning_model)",
+        "title": "Transformer (deep learning architecture) - Wikipedia",
+        "definition": "A transformer is a deep learning architecture that was developed by researchers at Google and is based on the multi-head attention mechanism, which was proposed in the 2017 paper \" Attention Is All You Need \". Text is converted to numerical representations called tokens , and each token is converted into a vector via lookup from a word embedding table. At each layer, each token is then contextualized within the scope of the context window with other (unmasked) tokens via a parallel multi-head attention mechanism, allowing the signal for key tokens to be amplified and less important tokens to be diminished."
+    },
+    {
+        "url": "https://en.wikipedia.org/wiki/Attention_(machine_learning)",
+        "title": "Attention (machine learning) - Wikipedia",
+        "definition": "Attention is a machine learning method that determines the relative importance of each component in a sequence relative to the other components in that sequence. In natural language processing , importance is represented by \"soft\" weights assigned to each word in a sentence. More generally, attention encodes vectors called token embeddings across a fixed-width sequence that can range from tens to millions of tokens in size."
+    },
+    {
+        "url": "https://en.wikipedia.org/wiki/Long_short-term_memory",
+        "title": "Long short-term memory - Wikipedia",
+        "definition": "Long short-term memory ( LSTM ) is a type of recurrent neural network (RNN) aimed at mitigating the vanishing gradient problem commonly encountered by traditional RNNs. Its relative insensitivity to gap length is its advantage over other RNNs, hidden Markov models , and other sequence learning methods. It aims to provide a short-term memory for RNN that can last thousands of timesteps (thus \" long short-term memory\"). The name is made in analogy with long-term memory and short-term memory and their relationship, studied by cognitive psychologists since the early 20th century."
+    },
+    {
+        "url": "https://en.wikipedia.org/wiki/Gated_recurrent_unit",
+        "title": "Gated recurrent unit - Wikipedia",
+        "definition": "Gated recurrent units ( GRUs ) are a gating mechanism in recurrent neural networks , introduced in 2014 by Kyunghyun Cho et al. The GRU is like a long short-term memory (LSTM) with a gating mechanism to input or forget certain features, but lacks a context vector or output gate, resulting in fewer parameters than LSTM. GRU's performance on certain tasks of polyphonic music modeling, speech signal modeling and natural language processing was found to be similar to that of LSTM. GRUs showed that gating is indeed helpful in general, and Bengio 's team came to no concrete conclusion on which of the two gating units was better."
+    },
+    {
+        "url": "https://en.wikipedia.org/wiki/Generative_adversarial_network",
+        "title": "Generative adversarial network - Wikipedia",
+        "definition": "A generative adversarial network ( GAN ) is a class of machine learning frameworks and a prominent framework for approaching generative artificial intelligence . The concept was initially developed by Ian Goodfellow and his colleagues in June 2014. In a GAN, two neural networks contest with each other in the form of a zero-sum game , where one agent's gain is another agent's loss."
+    },
+    {
+        "url": "https://en.wikipedia.org/wiki/Autoencoder",
+        "title": "Autoencoder - Wikipedia",
+        "definition": "An autoencoder is a type of artificial neural network used to learn efficient codings of unlabeled data ( unsupervised learning ). An autoencoder learns two functions: an encoding function that transforms the input data, and a decoding function that recreates the input data from the encoded representation. The autoencoder learns an efficient representation (encoding) for a set of data, typically for dimensionality reduction , to generate lower-dimensional embeddings for subsequent use by other machine learning algorithms."
+    },
+    {
+        "url": "https://en.wikipedia.org/wiki/Multilayer_perceptron",
+        "title": "Multilayer perceptron - Wikipedia",
+        "definition": "In deep learning , a multilayer perceptron ( MLP ) is a name for a modern feedforward neural network consisting of fully connected neurons with nonlinear activation functions , organized in layers, notable for being able to distinguish data that is not linearly separable ."
+    },
+    {
+        "url": "https://en.wikipedia.org/wiki/Feedforward_neural_network",
+        "title": "Feedforward neural network - Wikipedia",
+        "definition": "Feedforward refers to recognition-inference architecture of neural networks. Artificial neural network architectures are based on inputs multiplied by weights to obtain outputs (inputs-to-output): feedforward. Recurrent neural networks , or neural networks with loops allow information from later processing stages to feed back to earlier stages for sequence processing. However, at every stage of inference a feedforward multiplication remains the core, essential for backpropagation or backpropagation through time. Thus neural networks cannot contain feedback like negative feedback or positive feedback where the outputs feed back to the very same inputs and modify them, because this forms an infinite loop which is not possible to rewind in time to generate an error signal through backpropagation. This issue and nomenclature appear to be a point of confusion between some computer scientists and scientists in other fields studying brain networks."
+    },
+    {
+        "url": "https://en.wikipedia.org/wiki/Pattern_recognition",
+        "title": "Pattern recognition - Wikipedia",
+        "definition": "Pattern recognition is the task of assigning a class to an observation based on patterns extracted from data. While similar, pattern recognition (PR) is not to be confused with pattern machines (PM) which may possess (PR) capabilities but their primary function is to distinguish and create emergent  patterns.   PR has applications in statistical data analysis , signal processing , image analysis , information retrieval , bioinformatics , data compression , computer graphics and machine learning . Pattern recognition has its origins in statistics and engineering; some modern approaches to pattern recognition include the use of machine learning , due to the increased availability of big data and a new abundance of processing power ."
+    },
+    {
+        "url": "https://en.wikipedia.org/wiki/Semi-supervised_learning",
+        "title": "Weak supervision - Wikipedia",
+        "definition": "Weak supervision (also known as semi-supervised learning ) is a paradigm in machine learning , the relevance and notability of which increased with the advent of large language models due to large amount of data required to train them.  It is characterized by using a combination of a small amount of human- labeled data (exclusively used in more expensive and time-consuming supervised learning paradigm), followed by a large amount of unlabeled data (used exclusively in unsupervised learning paradigm). In other words, the desired output values are provided only for a subset of the training data. The remaining data is unlabeled or imprecisely labeled. Intuitively, it can be seen as an exam and labeled data as sample problems that the teacher solves for the class as an aid in solving another set of problems. In the transductive setting, these unsolved problems act as exam questions. In the inductive setting, they become practice problems of the sort that will make up the exam."
+    },
+    {
+        "url": "https://en.wikipedia.org/wiki/Active_learning_(machine_learning)",
+        "title": "Active learning (machine learning) - Wikipedia",
+        "definition": "Active learning is a special case of machine learning in which a learning algorithm can interactively query a human user (or some other information source), to label new data points with the desired outputs. The human user must possess knowledge/expertise in the problem domain, including the ability to consult/research authoritative sources when necessary. In statistics literature, it is sometimes also called optimal experimental design . The information source is also called teacher or oracle ."
+    },
+    {
+        "url": "https://en.wikipedia.org/wiki/Transfer_learning",
+        "title": "Transfer learning - Wikipedia",
+        "definition": "Transfer learning ( TL ) is a technique in machine learning (ML) in which knowledge learned from a task is re-used in order to boost performance on a related task. For example, for image classification , knowledge gained while learning to recognize cars could be applied when trying to recognize trucks. This topic is related to the psychological literature on transfer of learning , although practical ties between the two fields are limited. Reusing/transferring information from previously learned tasks to new tasks has the potential to significantly improve learning efficiency."
+    },
+    {
+        "url": "https://en.wikipedia.org/wiki/Meta-learning_(computer_science)",
+        "title": "Meta-learning (computer science) - Wikipedia",
+        "definition": "Meta-learning is a subfield of machine learning where automatic learning algorithms are applied to metadata about machine learning experiments. As of 2017, the term had not found a standard interpretation, however the main goal is to use such metadata to understand how automatic learning can become flexible in solving learning problems, hence to improve the performance of existing learning algorithms or to learn (induce) the learning algorithm itself, hence the alternative term learning to learn ."
+    },
+    {
+        "url": "https://en.wikipedia.org/wiki/Online_machine_learning",
+        "title": "Online machine learning - Wikipedia",
+        "definition": "In computer science , online machine learning is a method of machine learning in which data becomes available in a sequential order and is used to update the best predictor for future data at each step, as opposed to batch learning techniques which generate the best predictor by learning on the entire training data set at once. Online learning is a common technique used in areas of machine learning where it is computationally infeasible to train over the entire dataset, requiring the need of out-of-core algorithms. It is also used in situations where it is necessary for the algorithm to dynamically adapt to new patterns in the data, or when the data itself is generated as a function of time, e.g., prediction of prices in the financial international markets. Online learning algorithms may be prone to catastrophic interference , a problem that can be addressed by incremental learning approaches."
+    },
+    {
+        "url": "https://en.wikipedia.org/wiki/AutoML",
+        "title": "Automated machine learning - Wikipedia",
+        "definition": "Automated machine learning ( AutoML ) is the process of automating the tasks of applying machine learning to real-world problems. It is the combination of automation and ML."
+    },
+    {
+        "url": "https://en.wikipedia.org/wiki/Explainable_artificial_intelligence",
+        "title": "Explainable artificial intelligence - Wikipedia",
+        "definition": "Explainable AI ( XAI ), often overlapping with interpretable AI , or explainable machine learning ( XML ), is a field of research within artificial intelligence (AI) that explores methods that provide humans with the ability of intellectual oversight over AI algorithms. The main focus is on the reasoning behind the decisions or predictions made by the AI algorithms, to make them more understandable and transparent. This addresses users' requirement to assess safety and scrutinize the automated decision making in applications. XAI counters the \" black box \" tendency of machine learning, where even the AI's designers cannot explain why it arrived at a specific decision."
+    },
+    {
+        "url": "https://en.wikipedia.org/wiki/Machine_learning_control",
+        "title": "Machine learning control - Wikipedia",
+        "definition": "Machine learning control ( MLC ) is a subfield of machine learning , intelligent control , and control theory which aims to solve optimal control problems with machine learning methods. Key applications are complex nonlinear systems for which linear control theory methods are not applicable."
+    }
+]
